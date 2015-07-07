@@ -94,20 +94,28 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    font-family: helvetica;
+}
 
+p {
+    font-size: 20px;
+}
 
+img {
+    border-radius: 12px;
+}
 
+caption {
+    text-align: bottom;
+}
 
-
-
-
-
-
-
-
-
-
-
+figcaption {
+    margin: 5px;
+}
 
 
 
